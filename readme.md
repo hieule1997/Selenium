@@ -15,7 +15,7 @@ Selenium là bộ kiểm thử tự động miễn phí (mã nguồn mở) dành
 Hiện tại, Selenium RC và WebDriver được hợp nhất thành một framework duy nhất để tạo ra Selenium 2. Còn Selenium 1 thì tham chiếu đến Selenium RC.
 ### Python  
 Python là một ngôn ngữ lập trình thông dịch (interpreted), hướng đối tượng (object-oriented), và là một ngôn ngữ bậc cao (high-level)  ngữ nghĩa động (dynamic semantics). Python hỗ trợ các module và gói (packages), khuyến khích chương trình module hóa và tái sử dụng mã. Trình thông dịch Python và thư viện chuẩn mở rộng có sẵn dưới dạng mã nguồn hoặc dạng nhị phân miễn phí cho tất cả các nền tảng chính và có thể được phân phối tự do.
-![anh1](/img/a2.png)
+![anh1](/img/a2.png)  
 Sau đây là các đặc điểm của Python:
 - Ngữ pháp đơn giản, dễ đọc.
 - Vừa hướng thủ tục (procedural-oriented), vừa hướng đối tượng (object-oriented)
